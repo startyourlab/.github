@@ -3,8 +3,7 @@
 For questions (e.g., both quick questions and those requiring examples) please email
 [Ari Dyckovsky](mailto:aridyckovsky@gmail.com).
 
-To report issues, use this repository's
-[issue tracker](https://github.com/sokolhessnerlab/csn/issues/new).
+To report issues, use this repository's issue tracker.
 
 **DO NOT** use the issue tracker to ask questions; use email for
 that. Questions posed to the issue tracker will be closed.
