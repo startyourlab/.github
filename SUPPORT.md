@@ -1,7 +1,8 @@
 # Getting Support
 
 For questions (e.g., both quick questions and those requiring examples) please email
-[Ari Dyckovsky](mailto:aridyckovsky@gmail.com).
+[Ari Dyckovsky](mailto:aridyckovsky@gmail.com). [NOTE: please update this to one
+of your lab members.]
 
 To report issues, use this repository's issue tracker.
 
