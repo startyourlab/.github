@@ -1,8 +1,8 @@
 # Getting Support
 
 For questions (e.g., both quick questions and those requiring examples) please email
-[Ari Dyckovsky](mailto:aridyckovsky@gmail.com). [NOTE: please update this to one
-of your lab members.]
+[Start Your Lab Support](mailto:support@startyourlab.com). [NOTE: please update this to one
+of your own lab members.]
 
 To report issues, use this repository's issue tracker.
 
