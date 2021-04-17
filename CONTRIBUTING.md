@@ -44,8 +44,8 @@ You can also file issues as [feature requests or enhancements](https://github.co
 
 ## Contributing to the Start Your Lab website
 
-You can learn more about contributing to Start Your Lab's main website by visiting the [community contribution guide](https://www.startyourlab.com/community/contributing).
+You can learn more about contributing to Start Your Lab's main website by visiting the [community contribution guide](https://www.startyourlab.com/community/contributing). If you would like to contribute to other projects, please see the contributing guide for that project's repository or [reach out to us on Twitter](https://twitter.com/startyourlab).
 
-## License {#license}
+## License
 
 By contributing to Start Your Lab, you agree that your contributions will be licensed under its MIT license.
